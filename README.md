@@ -38,4 +38,4 @@ Colours are in a comment in `src/App.css`.
 
 ![Mobile](resources/TabletPortrait.png)
 
-Good luck! :)
+## Good luck! :)
