@@ -32,10 +32,10 @@ Colours are in a comment in `src/App.css`.
 
 #### Desktop Active
 
-![Desktop Active](resources/Desktop Active.png)
+![Desktop Active](resources/DesktopActive.png)
 
 #### Mobile
 
-![Mobile](resources/Tablet Portrait.png)
+![Mobile](resources/TabletPortrait.png)
 
 Good luck! :)
